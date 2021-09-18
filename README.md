@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <li>I am currently working as Assistant System Engineer</li>
 <li>Check out my [portfolio](https://gaurav-sarkar.netlify.app/)</li>
 </ul>
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Gaurav3099 alt=Gaurav3099 /> </p>
