@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hey 👋, This is Gaurav Sarkar
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gaurav.sarkar830@gmail.com)](mailto:gaurav.sarkar830@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/sarkargaurav/)](https://www.linkedin.com/in/linkedin.com/in/sarkargaurav/) 
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/sarkargaurav/)](https://www.linkedin.com/in/sarkar-gaurav/) 
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Gaurav3099/)](https://www.github.com/Gaurav3099/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gaurav-sarkar.netlify.app//)](https://gaurav-sarkar.netlify.app//) <p align='left'>I am a Software Developer, who likes develop Ml web apps</p>
 
 <ul>
