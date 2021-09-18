@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gaurav.sarkar830@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gaurav.sarkar830@gmail.com)](mailto:gaurav.sarkar830@gmail.com) [![Github Badge](https://img.shields.io/badge/-Gaurav3099-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Gaurav3099/)](https://www.github.com/Gaurav3099/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gaurav-sarkar.netlify.app//)](https://gaurav-sarkar.netlify.app//) <p align='left'>I am a Software Developer, who likes develop Ml web apps</p>
 
 <ul>
-<li>I am currently working as Assistant System Engineer</li>
-  <li>Check out my <a href="https://gaurav-sarkar.netlify.app/" target="_blank">portfolio</a></li>
+<li>I am currently working as Assistant System Engineer.</li>
+  <li>Check out my <a href="https://gaurav-sarkar.netlify.app/" target="_blank">portfolio.</a></li>
 </ul>
 
 
