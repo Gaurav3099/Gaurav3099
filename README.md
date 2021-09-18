@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Gaurav3099&show_icons=true&include_all_commits=true)](https://github.com/Gaurav3099/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav3099&layout=compact)](https://github.com/Gaurav3099/github-readme-stats)
+
+<ul>
+<li>I am currently working as Assistant System Engineer</li>
+<li>Second item</li>
+<li>Check out my [portfolio](https://gaurav-sarkar.netlify.app/)</li>
+<li>Fourth item</li>
+</ul>
