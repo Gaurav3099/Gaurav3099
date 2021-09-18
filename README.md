@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <ul>
 <li>I am currently working as Assistant System Engineer</li>
-<li>Check out my [portfolio](https://gaurav-sarkar.netlify.app/)</li>
+  <li>Check out my <a href="https://gaurav-sarkar.netlify.app/">portfolio</a></li>
 </ul>
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
