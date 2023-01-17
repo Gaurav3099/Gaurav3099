@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Gaurav3099 alt=Gaurav3099 /> </p>
 
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=Gaurav3099&show_icons=true&include_all_commits=true)](https://github.com/Gaurav3099/github-readme-stats) -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Gaurav3099&show_icons=true&include_all_commits=true)](https://github.com/Gaurav3099/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav3099&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav3099&show_icons=true&theme=transparent) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav3099&layout=compact)](https://github.com/Gaurav3099/github-readme-stats)
 
 
